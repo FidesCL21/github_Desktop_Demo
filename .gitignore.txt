@@ -1,1 +1,4 @@
 *.txt
+
+usre_login.log
+*passwords*
